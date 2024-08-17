@@ -1,0 +1,8 @@
+[
+  { "text": "Meeting Room 1", "value": 1, "color": "#1a237e" },
+  { "text": "Meeting Room 2", "value": 2, "color": "#283593" },
+  { "text": "Meeting Room 3", "value": 3, "color": "#303f9f" },
+  { "text": "Meeting Room 4", "value": 4, "color": "#3949ab" },
+  { "text": "Meeting Room 5", "value": 5, "color": "#3f51b5" },
+  { "text": "Meeting Room 6", "value": 6, "color": "#5c6bc0" }
+]

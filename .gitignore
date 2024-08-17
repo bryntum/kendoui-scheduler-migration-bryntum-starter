@@ -1,0 +1,7 @@
+# backend
+*.log
+.env
+node_modules/
+.vscode
+database.sqlite3
+public/kendo-ui-license.js
