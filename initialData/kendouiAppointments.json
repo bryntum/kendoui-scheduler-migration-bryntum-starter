@@ -3,84 +3,84 @@
     "meetingID": 1,
     "roomId": 1,
     "title": "Meeting with customers",
-    "start": "Mon Sep 2 2024 08:00:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 12:10:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 10:00:00 GMT",
+    "end": "Mon Sep 2 2024 12:10:00 GMT"
   },
   {
     "meetingID": 2,
     "roomId": 2,
     "title": "Interview",
-    "start": "Mon Sep 2 2024 10:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 14:10:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 10:30:00 GMT",
+    "end": "Mon Sep 2 2024 14:10:00 GMT"
   },
   {
     "meetingID": 3,
     "roomId": 3,
     "title": "HR meeting",
-    "start": "Mon Sep 2 2024 09:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 13:10:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 10:00:00 GMT",
+    "end": "Mon Sep 2 2024 13:10:00 GMT"
   },
   {
     "meetingID": 4,
     "roomId": 4,
     "title": "Supplier meeting",
-    "start": "Mon Sep 2 2024 13:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 17:00:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 13:30:00 GMT",
+    "end": "Mon Sep 2 2024 17:00:00 GMT"
   },
   {
     "meetingID": 5,
     "roomId": 5,
     "title": "Team meeting",
-    "start": "Mon Sep 2 2024 14:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 17:00:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 14:30:00 GMT",
+    "end": "Mon Sep 2 2024 17:00:00 GMT"
   },
   {
     "meetingID": 6,
     "roomId": 6,
     "title": "Meeting with the client",
-    "start": "Mon Sep 2 2024 14:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Mon Sep 2 2024 17:00:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Mon Sep 2 2024 14:30:00 GMT",
+    "end": "Mon Sep 2 2024 17:00:00 GMT"
   },
   {
     "meetingID": 7,
     "roomId": 1,
     "title": "Meeting with customers",
-    "start": "Tue Sep 3 2024 08:00:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 12:00:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 10:00:00 GMT",
+    "end": "Tue Sep 3 2024 13:00:00 GMT"
   },
   {
     "meetingID": 8,
     "roomId": 2,
     "title": "Interview",
-    "start": "Tue Sep 3 2024 09:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 12:30:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 10:30:00 GMT",
+    "end": "Tue Sep 3 2024 13:00:00 GMT"
   },
   {
     "meetingID": 9,
     "roomId": 3,
     "title": "Conference call",
-    "start": "Tue Sep 3 2024 08:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 12:10:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 10:30:00 GMT",
+    "end": "Tue Sep 3 2024 13:10:00 GMT"
   },
   {
     "meetingID": 10,
     "roomId": 4,
     "title": "Supplier meeting",
-    "start": "Tue Sep 3 2024 09:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 14:00:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 10:30:00 GMT",
+    "end": "Tue Sep 3 2024 14:00:00 GMT"
   },
   {
     "meetingID": 11,
     "roomId": 5,
     "title": "Team meeting",
-    "start": "Tue Sep 3 2024 13:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 16:30:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 13:30:00 GMT",
+    "end": "Tue Sep 3 2024 16:30:00 GMT"
   },
   {
     "meetingID": 12,
     "roomId": 6,
     "title": "Meeting with the client",
-    "start": "Tue Sep 3 2024 14:30:00 GMT+0200 (South Africa Standard Time)",
-    "end": "Tue Sep 3 2024 17:10:00 GMT+0200 (South Africa Standard Time)"
+    "start": "Tue Sep 3 2024 14:30:00 GMT",
+    "end": "Tue Sep 3 2024 17:10:00 GMT"
   }
 ]
