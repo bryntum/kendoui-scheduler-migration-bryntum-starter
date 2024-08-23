@@ -7,7 +7,6 @@ const scheduler = new Scheduler({
     workingTime               : null,
     zoomOnMouseWheel          : false,
     zoomOnTimeAxisDoubleClick : false,
-    // This allows the timeline to be scrolled infinitely in time.
     viewPreset                : {
         id      : 'myPreset', // Unique id value provided to recognize your view preset. Not required, but having it you can simply set new view preset by id: scheduler.viewPreset = 'myPreset'
         name    : 'My view preset', // A human-readable name provided to be used in GUI, e.i. preset picker, etc.
